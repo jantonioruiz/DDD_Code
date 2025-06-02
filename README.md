@@ -89,8 +89,8 @@ Below are some of the key findings observed during our experiments. These result
 
 ```plaintext
 Deep-Double-Descent/  
-├──                                   # LaTeX document with the project report  
-├──                             # Experiment scripts and Jupyter notebooks for analysis and testing
+├── Latex/                                  # LaTeX document with the project report (NOT INCLUDED HERE)
+├── experiments/                            # Experiment scripts and Jupyter notebooks for analysis and testing
 │   ├── PlotNGPUresults                     # Jupyter notebook to plot results from NGPU experiments  
 │   ├── Polynomial_approximation_(OLS_GD)   # Jupyter notebook for polynomial regression approximation (OLS + GD)
 │   └── script                              # Shell script to launch neural network experiments 
